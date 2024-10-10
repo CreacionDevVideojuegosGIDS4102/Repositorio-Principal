@@ -8,11 +8,11 @@
 </p>
 
 ----
-</details><details> <summary>01.00-Repositorio prototipo 1/</summary>
+</details><details> <summary>01.00-Repositorio prototipo 1</summary>
 
 ### [Prototipo 1](https://github.com/CreacionDevVideojuegosGIDS4102/Prototipo2.git)
 
-</details><details> <summary>01.01-Repositorio prototipo 2/</summary>
+</details><details> <summary>01.01-Repositorio prototipo 2</summary>
 
 ### [Prototipo 2](https://github.com/CreacionDevVideojuegosGIDS4102/Prototipo2.git)
 
