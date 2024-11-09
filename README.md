@@ -24,5 +24,9 @@
 
 ### [Prototipo 4](https://github.com/CreacionDevVideojuegosGIDS4102/Prototipo4.git)
 
+</details><details> <summary>01.02-Repositorio prototipo 5</summary>
+
+### [Prototipo 5](https://github.com/CreacionDevVideojuegosGIDS4102/Prototipo-5.git)
+
 
 ----
