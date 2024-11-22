@@ -28,5 +28,12 @@
 
 ### [Prototipo 5](https://github.com/CreacionDevVideojuegosGIDS4102/Prototipo-5.git)
 
+</details><details> <summary>01-Repositorio challenge 1</summary>
+
+### [Challenge 1](https://github.com/CreacionDevVideojuegosGIDS4102/Challenge1.git)
+
+</details><details> <summary>02-Repositorio challenge 2</summary>
+
+### [Challenge 2](https://github.com/CreacionDevVideojuegosGIDS4102/Challenge1.git)
 
 ----
