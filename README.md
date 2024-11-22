@@ -34,6 +34,6 @@
 
 </details><details> <summary>02-Repositorio challenge 2</summary>
 
-### [Challenge 2](https://github.com/CreacionDevVideojuegosGIDS4102/Challenge1.git)
+### [Challenge 2](https://github.com/CreacionDevVideojuegosGIDS4102/Challenge-2.git)
 
 ----
